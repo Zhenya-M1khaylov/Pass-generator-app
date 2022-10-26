@@ -4,15 +4,12 @@ import {
     INITIAL_VALUE_PASSWORD_MAX_LENGTH,
     INITIAL_VALUE_PASSWORD_MIN_LENGTH
 } from "common/constants";
-
 interface IPasswordLength {
     passwordLength: number
     setPasswordLength: (length: number) => void
 }
-
 export const PasswordLength: FC<IPasswordLength> = (props) => {
     const {setPasswordLength, passwordLength} = props
-
     const onInputSetPasswordLengthChange = (event: ChangeEvent<HTMLInputElement>) => {
         setPasswordLength(+event.currentTarget.value)
     }
@@ -20,7 +17,7 @@ export const PasswordLength: FC<IPasswordLength> = (props) => {
         <>
             <div className={style.passwordLength}>
                 <span>Character length</span>
-                <span>{passwordLength}</span>
+                <span className={style.passwordLength__number}>{passwordLength}</span>
             </div>
 
             <input

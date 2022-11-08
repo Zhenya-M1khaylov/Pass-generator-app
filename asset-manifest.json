@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/PassGeneratorApp/static/css/main.1cc468d5.css",
-    "main.js": "/PassGeneratorApp/static/js/main.f0d13d79.js",
-    "static/js/787.3626d039.chunk.js": "/PassGeneratorApp/static/js/787.3626d039.chunk.js",
-    "index.html": "/PassGeneratorApp/index.html",
-    "static/media/sun-line.svg": "/PassGeneratorApp/static/media/sun-line.abcf781757e7194ba91043f1bfabba58.svg",
-    "static/media/file-copy-line.svg": "/PassGeneratorApp/static/media/file-copy-line.bd01cffb9a9fda36d7f42004c257c7d4.svg",
-    "static/media/moon-line.svg": "/PassGeneratorApp/static/media/moon-line.2d0cb043f51b1ac15abb5e222e7678c2.svg",
-    "main.1cc468d5.css.map": "/PassGeneratorApp/static/css/main.1cc468d5.css.map",
-    "main.f0d13d79.js.map": "/PassGeneratorApp/static/js/main.f0d13d79.js.map",
-    "787.3626d039.chunk.js.map": "/PassGeneratorApp/static/js/787.3626d039.chunk.js.map"
+    "main.css": "/pass-generator-app/static/css/main.e947a31d.css",
+    "main.js": "/pass-generator-app/static/js/main.fd5fb257.js",
+    "static/js/787.3626d039.chunk.js": "/pass-generator-app/static/js/787.3626d039.chunk.js",
+    "index.html": "/pass-generator-app/index.html",
+    "static/media/sun-line.svg": "/pass-generator-app/static/media/sun-line.abcf781757e7194ba91043f1bfabba58.svg",
+    "static/media/file-copy-line.svg": "/pass-generator-app/static/media/file-copy-line.bd01cffb9a9fda36d7f42004c257c7d4.svg",
+    "static/media/moon-line.svg": "/pass-generator-app/static/media/moon-line.2d0cb043f51b1ac15abb5e222e7678c2.svg",
+    "main.e947a31d.css.map": "/pass-generator-app/static/css/main.e947a31d.css.map",
+    "main.fd5fb257.js.map": "/pass-generator-app/static/js/main.fd5fb257.js.map",
+    "787.3626d039.chunk.js.map": "/pass-generator-app/static/js/787.3626d039.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1cc468d5.css",
-    "static/js/main.f0d13d79.js"
+    "static/css/main.e947a31d.css",
+    "static/js/main.fd5fb257.js"
   ]
 }

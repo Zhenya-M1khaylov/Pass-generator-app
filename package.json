@@ -1,6 +1,6 @@
 {
   "name": "generator-password-app",
-  "homepage": "https://Zhenya-M1khaylov.github.io/Pass-generator-app/",
+  "homepage": "https://zhenya-m1khaylov.github.io/pass-generator-app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,6 +12,8 @@
     "@types/react": "^18.0.0",
     "@types/react-copy-to-clipboard": "^5.0.4",
     "@types/react-dom": "^18.0.0",
+    "gh-pages": "^4.0.0",
+    "gh-pages-deploy": "^0.5.1",
     "react": "^18.2.0",
     "react-copy-to-clipboard": "^5.1.0",
     "react-dom": "^18.2.0",

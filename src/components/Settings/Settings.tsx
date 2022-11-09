@@ -1,4 +1,4 @@
-import React, {FC, useEffect, useState} from 'react';
+import React, {FC, useState} from 'react';
 import style from "./Settings.module.scss";
 import {
     CustomPasswordSettings,
@@ -19,7 +19,7 @@ interface ISettings {
 export const Settings:FC<ISettings> = ({setPassword}) => {
     const [passwordLength, setPasswordLength] = useState(INITIAL_VALUE_PASSWORD_MIN_LENGTH)
     const [passwordSettings, setPasswordSettings] = useState(defaultPasswordSettings)
-    const [passwordStrength, setPasswordStrength] = useState(INITIAL_VALUE_PASSWORD_STRENGTH);
+    // const [passwordStrength, setPasswordStrength] = useState(INITIAL_VALUE_PASSWORD_STRENGTH);
 
     return (
         <div className={style.settings}>
